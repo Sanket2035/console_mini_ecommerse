@@ -27,5 +27,4 @@ Before you begin, ensure you have the following installed on your local machine:
 
 **1. Clone the repository**
 ```bash
-git clone [https://github.com/yourusername/ecommerce-console-app.git](https://github.com/yourusername/ecommerce-console-app.git)
-cd ecommerce-console-app
+[git clone [https://github.com/yourusername/ecommerce-console-app.git](https://github.com/yourusername/ecommerce-console-app.git)](https://github.com/Sanket2035/console_mini_ecommerse.git)
